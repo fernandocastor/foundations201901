@@ -1,0 +1,1 @@
+Repositório da disciplina Desenvolvimento iOS e o Ecossistema de Apps (oficialmente: IF810) do Centro de Informática da Universidade Federal de Pernambuco, semestre 2019.1. 
